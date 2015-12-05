@@ -1,4 +1,4 @@
 import os
 
 def nothing():
-    print "nothing at all all."
+    print "nothing at all all...!"
